@@ -6,6 +6,7 @@
 
 - Introdução
 - [Maratona Ciência de Dados](https://github.com/ludmilabueno/portfolio/tree/main/maratona-ciencia-de-dados)
+- [Curso da Alura - 'Python Pandas: Tratando e analisando dados'](https://github.com/ludmilabueno/portfolio/tree/main/alura-pandas-analise-tratamento-dos-dados)
 
 ## Introdução
 
@@ -33,4 +34,16 @@ Entrando em visualização de dados, primeiramente foi utilizada a biblioteca ma
 
 Outro gráfico plotado com seaborn foi o pairplot para demonstrar como as variáveis TV, jornal e rádio se relacionam com as vendas. Com isso, já é notável uma relação aproximadamente linear entre a TV e as vendas. 
 
-Adentrando em machine learning, foi aplicada uma regressão linear com a biblioteca scikit-learn utilizando os dados da TV e de vendas. A partir disso, foi possível obter um modelo de predição, no qual é inserido o valor investido em marketing na TV e ele retorna uma previsão de vendas baseado nisso.etos.
+Adentrando em machine learning, foi aplicada uma regressão linear com a biblioteca scikit-learn utilizando os dados da TV e de vendas. A partir disso, foi possível obter um modelo de predição, no qual é inserido o valor investido em marketing na TV e ele retorna uma previsão de vendas baseado nisso. 
+
+## Curso Alura - 'Python Pandas: Tratando e analisando dados'
+
+Nesse curso da [Alura](https://www.alura.com.br/) foi feito o tratamento e análise de dados a partir de uma base  contendo informações sobre diversos imóveis. O objetivo foi de aprender a utilizar a bibliotecas pandas através da manipulação desses dados.
+
+Os dados utilizados estavam em um arquivo csv e no curso eu aprendi a como fazer a importação desses dados, a obter informações sobre eles, tais como quais eram os tipos de dados, se haviam dados faltantes em alguma das colunas e a visualizar o tamanho do DataFrame. 
+
+Além disso, aprendi a retirar informações de um DataFrame e tranformá-lo em um novo, a partir de seleções de colunas, aplicando alguns métodos e o configurando para melhor visualização, resetando seu index e renomeando colunas. 
+
+Outro aprendizado que adquiri foi de filtrar os dados para extrair a informação desejada, no caso, selecionar somente as informações dos imóveis residenciais. Posteriormente, foi feita a exportação desses dados selecionados.
+
+A partir dos dos dados dos imóveis residenciais foi feita algumas análises, como, por exemplo, quantidade de apartamentos e quantidade de imóveis com determinada metragem.
