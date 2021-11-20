@@ -1,8 +1,6 @@
 # Portfólio
 
-<center>
-<img src="https://j.pucsp.br/sites/default/files/ciencia-dados-1500px_vale_esta.jpg" alt="Image" height="289" width="400">
-</center>
+![image alt ><](https://j.pucsp.br/sites/default/files/ciencia-dados-1500px_vale_esta.jpg)
 
 ## Organização
 
