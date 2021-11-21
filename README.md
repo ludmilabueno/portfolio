@@ -47,3 +47,9 @@ Além disso, aprendi a retirar informações de um DataFrame e tranformá-lo em 
 Outro aprendizado que adquiri foi de filtrar os dados para extrair a informação desejada, no caso, selecionar somente as informações dos imóveis residenciais. Posteriormente, foi feita a exportação desses dados selecionados.
 
 A partir dos dos dados dos imóveis residenciais foi feita algumas análises, como, por exemplo, quantidade de apartamentos e quantidade de imóveis com determinada metragem.
+
+Também aprendi a tratar os dados faltantes, identificando-os e analisando se os dados deveriam ser removidos ou preenchidos com algum valor. 
+
+Com os dados faltantes tratados, dei início a uma análise dos dados a partir da criação de novas variáveis, para obter informações relevantes sobre os imóveis, como o valor do metro quadrado, por exemplo. Prosseguindo na análise, foi feito o agrupamentos por bairro para obter o valor médio do aluguel em cada um e também obter dados de estatística descritiva, como valor mínimo, máximo e desvio padrão.
+
+Para finalizar foi feita a identificação e remoção de outliers, sendo que a visualização da distribuição foi feita em boxplots e histogramas plotados com a biblioteca matplotlib. A remoção dos outliers foi feita calculando os valores dos quartis e, com eles, os limites inferior e superior. Com isso, foi finalizada a remoção filtrando os dados por esses limites.
